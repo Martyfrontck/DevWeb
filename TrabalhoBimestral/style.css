@@ -27,6 +27,7 @@ article{
     object-fit: cover;
     width: 100px;  
     margin-left: 100px;
+    text-align: center;
 }
 
 .sobre{
@@ -93,12 +94,12 @@ h2{
   .infocurriculo{
       display: flex;
       padding: 10px;
-      margin-left: 50px;
+      margin-left: 80px;
   }
 
   .titulosinfo{
       display: flex;
-      margin-left: 170px;
+      margin-left: 130px;
   }
 
   .titulosinfo h3{
