@@ -4,12 +4,12 @@ body{
 }
 
 header{
-    background-color: #557B83;
+    background-color: #1f1c2e;
     color:#fff;
     color:#fff;
     padding:2px;
     text-align: center;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    box-shadow: rgba(32, 32, 48, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
 
 section{
@@ -21,16 +21,16 @@ article{
 }
 
 .eujpg{
-    background-color: #ddd;
+    background-color: rgb(78, 72, 72);
     border-radius: 50%;
-    height: 200px;
+    height: 100px;
     object-fit: cover;
-    width: 200px;  
+    width: 100px;  
     margin-left: 100px;
 }
 
 .sobre{
-    border:2px solid #39AEA9;;
+    border:2px solid #060e0d;;
     text-align: center; 
     padding: 10px;
     height: 600px;   
@@ -46,9 +46,9 @@ h2{
 
 .lirepositorio a:link, a:visited {
     width: 300px;
-    background-color: white;
+    background-color: rgb(119, 115, 115);
     color: black;
-    border: 2px solid #39AEA9;
+    border: 2px solid #314140;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -56,8 +56,8 @@ h2{
   }
   
   .lirepositorio a:hover, a:active {
-    background-color: #39AEA9;
-    color: white;
+    background-color: #213534;
+    color: rgb(119, 116, 116);
   }
 
 .lirepositorio{
